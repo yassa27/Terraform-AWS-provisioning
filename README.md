@@ -76,5 +76,7 @@ Ensure sensitive files and unnecessary files are excluded from version control
 
 ### Notes
 Ensure terraform.tfvars is not exposed publicly as it may contain sensitive information.
-The terraform.tfvars should contain your database secure password, AMI ID and key pair name
+
+The terraform.tfvars should contain your database secure password, AMI ID and key pair name.
+
 Customise variables in terraform.tfvars as needed for your environment.
