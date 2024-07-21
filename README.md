@@ -3,7 +3,7 @@
 This project demonstrates how to use Terraform to manage and deploy infrastructure on AWS. It sets up a basic EC2 instance with a security group for web access.
 
 
-## Project Perequisites and steps to follow
+## Project Structure
 
 
 - **`tf-project-files/`**: Contains all Terraform configuration files.
@@ -12,8 +12,6 @@ This project demonstrates how to use Terraform to manage and deploy infrastructu
   - **`outputs.tf`**: Specifies output values from Terraform.
   - **`terraform.tfvars`**: Provides values for variables defined in `variables.tf`.
   - **`provider.tf`**: Configures the provider settings.
-
-## Getting Started
 
 ### Prerequisites
 
