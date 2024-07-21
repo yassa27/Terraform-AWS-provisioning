@@ -70,7 +70,7 @@ To destroy the resources created by Terraform:
 terraform destroy
 ```
 
-### use gitignore for data protection
+### Use gitignore for data protection
 Ensure sensitive files and unnecessary files are excluded from version control
 
 
